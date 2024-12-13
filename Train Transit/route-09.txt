@@ -1,0 +1,16 @@
+Roanoke 0 569
+Kirkenes 297 63
+Roanoke 220 678
+Baltimore 42 860
+Kalmar 494 386
+Baltimore 263 742
+Samara 694 645
+Belleville 152 316
+Samara 217 801
+Kirkenes 310 584
+Antofagasta 22 636
+Kalmar 750 24
+Antofagasta 933 340
+Hangzhou 424 835
+Antofagasta 131 185
+Kirkenes 2715 0

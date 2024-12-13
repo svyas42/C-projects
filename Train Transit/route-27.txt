@@ -1,0 +1,4 @@
+Prague 0 500
+Berlin 100 200
+Paris 605 50
+Madrid 45 0

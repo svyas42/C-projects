@@ -1,0 +1,4 @@
+Manhattan Brooklyn 5.0
+Manhattan The_Bronx 5.0
+Manhattan Queens 5.0
+Manhattan Staten_Island 5.0

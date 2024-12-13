@@ -1,0 +1,4 @@
+Prague 0 1
+Berlin 0 1
+Paris 0 1
+Madrid 3 0

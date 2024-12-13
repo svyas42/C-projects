@@ -1,0 +1,11 @@
+Chicago  0  218
+   Philadelphia
+   25
+   109
+Sacramento 41 282Philadelphia 98 45
+
+
+Houston
+102 53 Sacramento
+       441       0
+       Chicago 0 0

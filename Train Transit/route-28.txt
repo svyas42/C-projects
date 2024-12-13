@@ -1,0 +1,2 @@
+Cary 0 1
+Raleigh 1 0

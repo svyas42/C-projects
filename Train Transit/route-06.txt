@@ -1,0 +1,11 @@
+Raleigh 0 25
+Cary 5 18
+Durham 11 40
+Burlington 0 0
+Durham 0 1
+Burlington 0 1
+Greensboro 67 0
+Cary 1 52
+Raleigh 18 2714
+Wilson 92 308
+Selma 2965 0

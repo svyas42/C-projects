@@ -1,0 +1,8 @@
+Sirius 0 9
+Rigel 1 90
+Vega 10 900
+Achernar 100 9000
+Betelgeuse 1000 90000
+Capella 10000 900000
+Arcturus 100000 9000000
+Canopus 9888888 0

@@ -1,0 +1,8 @@
+Greensboro Burlington 35.5
+Burlington Durham 84.6
+Durham Cary 30.9
+Cary Raleigh 19.4
+Raleigh Selma 51.8
+Selma Wilson 43.9
+Wilson Raleigh 80.1
+Cary Greensboro 114.3

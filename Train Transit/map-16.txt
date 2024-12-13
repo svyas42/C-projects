@@ -1,0 +1,3 @@
+Ube Yap 100.0
+Yap Fez 200.0
+Fez StDenis-De-La-Reunion 300.0

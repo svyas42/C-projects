@@ -1,0 +1,6 @@
+Chicago Houston 1743.5
+Sacramento Philadelphia 4487.8
+Chicago Philadelphia 1221.8
+Sacramento Chicago 3292.0
+Philadelphia Houston 2155.7
+Houston Sacramento 3104.1

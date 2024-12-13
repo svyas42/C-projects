@@ -1,0 +1,3 @@
+Madrid Paris 1278.0
+Paris Berlin 1055.6
+Berlin Prague 279.7
