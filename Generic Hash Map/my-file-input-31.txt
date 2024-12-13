@@ -1,0 +1,4 @@
+set y 78
+remove y
+size
+quit

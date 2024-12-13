@@ -1,0 +1,7 @@
+set key1 42
+set key1 100
+get key1
+get key1
+set 999 "\\/"
+get 999
+quit

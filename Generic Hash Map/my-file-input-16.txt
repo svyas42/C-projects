@@ -1,0 +1,2 @@
+set emptyString " "
+get emptyString

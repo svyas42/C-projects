@@ -1,0 +1,2 @@
+set invalidDouble 2.9 3.576
+quit
