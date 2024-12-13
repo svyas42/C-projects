@@ -1,0 +1,3 @@
+Depart               Arrive                         Passengers              Distance    Passenger Distance
+Milky-Way            Andromeda                               1 1844674407370955161.5 1844674407370955161.5
+Total                                                        1 1844674407370955161.5 1844674407370955161.5

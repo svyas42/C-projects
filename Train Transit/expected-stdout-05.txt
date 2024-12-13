@@ -1,0 +1,8 @@
+Depart               Arrive                  Passenger Distance
+Chicago              Philadelphia                      266352.4
+Philadelphia         Sacramento                       1355315.6
+Sacramento           Philadelphia                     2436875.4
+Philadelphia         Houston                          1056293.0
+Houston              Sacramento                       1368908.1
+Sacramento           Chicago                                0.0
+Total                                                 6483744.5

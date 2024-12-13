@@ -1,0 +1,9 @@
+Depart               Arrive                         Passengers              Distance    Passenger Distance
+The_Bronx            Manhattan                        10000001                   5.0            50000005.0
+Manhattan            Queens                                  0                   5.0                   0.0
+Queens               Manhattan                     10000000002                   5.0         50000000010.0
+Manhattan            Staten_Island                           0                   5.0                   0.0
+Staten_Island        Manhattan                  10000000000003                   5.0      50000000000015.0
+Manhattan            Brooklyn                                0                   5.0                   0.0
+Brooklyn             Manhattan               10000000000000004                   5.0   50000000000000020.0
+Total                                        10010010010000010                  35.0   50050050050000050.0

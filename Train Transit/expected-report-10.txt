@@ -1,0 +1,34 @@
+Depart               Arrive                         Passengers              Distance    Passenger Distance
+Johannesburg         Yakutsk                              6093               18344.3           111771819.9
+Yakutsk              Johannesburg                         9156               18344.3           167960410.8
+Johannesburg         Tampere                             10688               60624.5           647954656.0
+Tampere              Beckley                              5886               65636.0           386333496.0
+Beckley              Cannes                               8496               94868.3           806001076.8
+Cannes               Gillam                               2876               17458.6            50210933.6
+Gillam               Cannes                               2986               17458.6            52131379.6
+Cannes               Beckley                              7509               94868.3           712366064.7
+Beckley              Tampere                              8971               65636.0           588820556.0
+Tampere              Johannesburg                        15322               60624.5           928888589.0
+Johannesburg         Yakutsk                             10864               18344.3           199292475.2
+Yakutsk              Tiruchirapally                       9966               85511.8           852210598.8
+Tiruchirapally       Yakutsk                             11928               85511.8          1019984750.4
+Yakutsk              Tiruchirapally                      14961               85511.8          1279342039.8
+Tiruchirapally       Nauru                               17216               16760.8           288553932.8
+Nauru                Tiruchirapally                      19179               16760.8           321455383.2
+Tiruchirapally       Yakutsk                             19977               85511.8          1708269228.6
+Yakutsk              Tiruchirapally                      23398               85511.8          2000805096.4
+Tiruchirapally       Nauru                               22386               16760.8           375207268.8
+Nauru                Tampere                             14893               96806.4          1441737715.2
+Tampere              Johannesburg                         7284               60624.5           441588858.0
+Johannesburg         Chemainus                           13266                9672.8           128319364.8
+Chemainus            Aswan                               11143               40658.6           453058779.8
+Aswan                Windsor                              8910               95457.9           850529889.0
+Windsor              Aswan                                8839               95457.9           843752378.1
+Aswan                Windsor                              3400               95457.9           324556860.0
+Windsor              Aswan                                9940               95457.9           948851526.0
+Aswan                Avignon                              2448               12243.5            29972088.0
+Avignon              Chemainus                            6259               58353.1           365232052.9
+Chemainus            Johannesburg                         2095                9672.8            20264516.0
+Johannesburg         Chemainus                            6041                9672.8            58433384.8
+Chemainus            Johannesburg                         6302                9672.8            60957985.6
+Total                                                   328678             1699258.0         18464815154.6

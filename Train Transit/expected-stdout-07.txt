@@ -1,0 +1,9 @@
+Depart               Arrive                         Passengers              Distance    Passenger Distance
+Sirius               Rigel                                   9         30640848317.4        275767634856.6
+Rigel                Vega                                   98         18388731496.2       1802095686627.6
+Vega                 Achernar                              988         19459563453.5      19226048692058.0
+Achernar             Betelgeuse                           9888         18556327199.9     183484963352611.2
+Betelgeuse           Capella                             98888         28928555194.4    2860686966063827.2
+Capella              Arcturus                           988888         77878171487.6   77012789246029788.8
+Arcturus             Canopus                           9888888         62253881455.7  615621661280694261.6
+Total                                                 10987647        256106078604.7  695699926368154031.0

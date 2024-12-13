@@ -1,0 +1,4 @@
+Depart               Arrive                         Passengers              Distance    Passenger Distance
+Start                Middle                          796691291          1620793524.1 1291272085159668613.1
+Middle               End                                 97148       5696487032273.3  553402322211286548.4
+Total                                                796788439       5698107825797.4 1844674407370955161.5

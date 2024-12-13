@@ -1,0 +1,12 @@
+Depart               Arrive                         Passengers              Distance    Passenger Distance
+Raleigh              Cary                                   25                  19.4                 485.0
+Cary                 Durham                                 38                  30.9                1174.2
+Durham               Burlington                             67                  84.6                5668.2
+Burlington           Durham                                 67                  84.6                5668.2
+Durham               Burlington                             68                  84.6                5752.8
+Burlington           Greensboro                             69                  35.5                2449.5
+Greensboro           Cary                                    2                 114.3                 228.6
+Cary                 Raleigh                                53                  19.4                1028.2
+Raleigh              Wilson                               2749                  80.1              220194.9
+Wilson               Selma                                2965                  43.9              130163.5
+Total                                                     6103                 597.3              372813.1

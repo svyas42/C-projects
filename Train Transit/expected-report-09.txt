@@ -1,0 +1,17 @@
+Depart               Arrive                  Passenger Distance
+Roanoke              Kirkenes                         3539180.0
+Kirkenes             Roanoke                          2083700.0
+Roanoke              Baltimore                        2752185.8
+Baltimore            Kalmar                          12436114.5
+Kalmar               Baltimore                       11602408.5
+Baltimore            Samara                           1155902.4
+Samara               Belleville                       6694752.2
+Belleville           Samara                           7262749.8
+Samara               Kirkenes                        24314525.2
+Kirkenes             Antofagasta                     16223245.5
+Antofagasta          Kalmar                          19050608.2
+Kalmar               Antofagasta                     15175365.4
+Antofagasta          Hangzhou                        11986425.0
+Hangzhou             Antofagasta                     14175945.3
+Antofagasta          Kirkenes                        14905621.5
+Total                                               163358729.3

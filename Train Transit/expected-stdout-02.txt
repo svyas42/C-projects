@@ -1,0 +1,4 @@
+Depart               Arrive                  Passenger Distance
+Raleigh              Cary                                  19.4
+Cary                 Durham                                30.9
+Total                                                      50.3

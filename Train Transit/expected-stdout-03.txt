@@ -1,0 +1,5 @@
+Depart               Arrive                  Passenger Distance
+Prague               Berlin                               279.7
+Berlin               Paris                               2111.2
+Paris                Madrid                              3834.0
+Total                                                    6224.9
