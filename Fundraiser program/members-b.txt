@@ -1,5 +1,0 @@
-jc   Jose Chavez
-mjb  Mary Jane Bradley
-sp   Sarah Patel
-sp1  Sam Parker
-wl   Wei Liu

@@ -1,2 +1,0 @@
-search ignorecase member An
-quit
